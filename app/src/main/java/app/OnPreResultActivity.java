@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 import app.multi_start.FirstActivity;
-import io.reactivex.Observable;
+import io.reactivex.rxjava3.core.Observable;
 import io.victoralbertos.app.R;
 import rx_activity_result2.RxActivityResult;
 

@@ -22,7 +22,7 @@ import android.content.Intent;
 import android.content.IntentSender;
 import android.os.Bundle;
 
-import io.reactivex.functions.Action;
+import io.reactivex.rxjava3.functions.Action;
 
 public class HolderActivity extends Activity {
     private static Request request;

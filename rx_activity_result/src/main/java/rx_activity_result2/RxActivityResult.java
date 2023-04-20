@@ -28,9 +28,9 @@ import androidx.fragment.app.FragmentManager;
 
 import java.util.List;
 
-import io.reactivex.Observable;
-import io.reactivex.functions.Consumer;
-import io.reactivex.subjects.PublishSubject;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.functions.Consumer;
+import io.reactivex.rxjava3.subjects.PublishSubject;
 
 
 public final class RxActivityResult {
